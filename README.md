@@ -1,6 +1,6 @@
 # AttributeExtensions
 
-TODO: Write a gem description
+Define attributes with default values and typecasting
 
 ## Installation
 
